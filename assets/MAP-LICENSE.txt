@@ -1,0 +1,4 @@
+Map geometry: Natural Earth (public domain), packaged by datasets/geo-countries (PDDL 1.0). Source: https://raw.githubusercontent.com/datasets/geo-countries/main/data/countries.geojson
+Only Japan is extracted; coordinates rounded to four decimal places.
+https://www.naturalearthdata.com/about/terms-of-use/
+https://github.com/datasets/geo-countries
